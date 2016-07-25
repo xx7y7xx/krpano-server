@@ -1,0 +1,25 @@
+{
+  "name": "krpano-server",
+  "version": "1.0.0",
+  "description": "krpano server node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxd3vin/krpano-server.git"
+  },
+  "keywords": [
+    "krpano"
+  ],
+  "author": "d3vin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xxd3vin/krpano-server/issues"
+  },
+  "homepage": "https://github.com/xxd3vin/krpano-server#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
